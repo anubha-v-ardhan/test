@@ -1,6 +1,6 @@
 name: Feature 
 title: '[FEATURE] <description>'
-labels: ['⭐ goal: addition','triage/accepted','triage/awaiting']
+labels: ['triage/awaiting']
 body:
   - type: textarea
     id: description
