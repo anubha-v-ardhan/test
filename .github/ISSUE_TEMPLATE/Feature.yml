@@ -1,6 +1,6 @@
 name: Feature 
-description: '[FEATURE] <description>'
-about: Request a new feature
+description: Request a new feature
+title: '[FEATURE] <description>'
 labels: ['triage/awaiting']
 body:
   - type: textarea
