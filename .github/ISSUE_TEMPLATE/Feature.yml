@@ -1,5 +1,5 @@
 name: Feature 
-title: '[FEATURE] <description>'
+description: '[FEATURE] <description>'
 about: Request a new feature
 labels: ['triage/awaiting']
 body:
